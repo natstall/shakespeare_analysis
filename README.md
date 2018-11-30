@@ -1,6 +1,6 @@
 Natasha Stallsmith
 
-**Purpose:** To analyse occurances of theme words in the plays King Lear, As You Like It, and Antony & Cleopatra. Several of the methods print out tables which are meant to be copy and pasted into an Excel sheet and then graphed in a network using Google's Fusion Tables.
+**Purpose:** To analyze occurances of theme words in the plays King Lear, As You Like It, and Antony & Cleopatra. Several of the methods print out tables which are meant to be copy and pasted into an Excel sheet and then graphed in a network using Google's Fusion Tables.
                 
 ### Fusion tables: ###
 - [King Lear Character Network](https://www.google.com/fusiontables/DataSource?docid=1G38cSLcV41NIwwZ4CtHK9_9Bz0oSHtpdxE9AEIlw)
