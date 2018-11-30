@@ -1,9 +1,9 @@
-/*
-Natasha Stallsmith
-Purpose: To analyse occurances of theme words in the plays King Lear, As You Like It, and Antony & Cleopatra.
-         Several of the methods print out tables which are meant to be copy and pasted into an Excel sheet and then made into a
-            network using Google's Fusion Tables.
-*/
+# # # # # # # # # # # # # # # # # #
+# Natasha Stallsmith
+# Purpose: To analyse occurances of theme words in the plays King Lear, As You Like It, and Antony & Cleopatra.
+#          Several of the methods print out tables which are meant to be copy and pasted into an Excel sheet and then made into a
+#             network using Google's Fusion Tables.
+# # # # # # # # # # # # # # # # # #
 
 
 import string
